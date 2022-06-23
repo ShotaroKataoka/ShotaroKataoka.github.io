@@ -61,7 +61,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
-        repository: RibbonCMS/SimpleBlogTemplate
+        repository: ShotaroKataoka/ShotaroKataoka.github.io_sideF
         path: front
         ref: main
 
