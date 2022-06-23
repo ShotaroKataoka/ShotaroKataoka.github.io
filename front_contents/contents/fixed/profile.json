@@ -1,4 +1,6 @@
 {
+    "site_description": "## このサイトの紹介\n\nこのサイトはRibbonCMSで作成しました。\n画像を含めたすべての情報や記事はGitHub Issuesによって更新されています",
+    "author_description_detail": "主に機械学習を用いた動画分析手法の研究を行っている博士学生です。\n趣味は気の向くままの開発とコーヒー。VIMを愛しています。\n昔からSNSとかで発信するのが苦手でしたが一念発起してブログを開始しました。",
     "skills_data": [
         {
             "title": "Python",
