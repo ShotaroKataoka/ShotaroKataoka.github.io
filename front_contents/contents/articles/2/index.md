@@ -1,19 +1,35 @@
 ---
-description: 記事の説明文
+description: 'おはよう！！！！！！！ かたおかです！  ## ちゃんと投稿できるかテストです！ いまRibbonCMSを開発してます！ このシステムを使ってちゃんと投稿できるかをテストしてます．  ##
+  画像も貼れるかテストです！ 画像も投稿できるはず．．   テストがてら前にVirtualCastで遊んだ時の写真貼っときます。 最近全くVR使えてないけど，時々できるといいなー   RibbonCMSがちゃんと...'
 posted_at: 2022年06月23日 15時02分
 slug: '2'
 tag_ids:
 - 4261073428
+- 4263728284
 title: テスト投稿
-updated_at: 2022年06月26日 17時23分
+updated_at: 2022年06月26日 18時28分
 
 ---
-## title
-content
-<img src='/static/images/articles/2/4a694490afe72062b10e4cbf5aa16fa2.webp' origin_url='https://user-images.githubusercontent.com/42331656/175226459-e97c686f-3635-4553-bea0-36532a3d1030.png' alt='orange_icon' />
+おはよう！！！！！！！
+かたおかです！
 
-aaaa
+## ちゃんと投稿できるかテストです！
+いまRibbonCMSを開発してます！
+このシステムを使ってちゃんと投稿できるかをテストしてます．
 
-scroll barなどをきれいにした
+## 画像も貼れるかテストです！
+画像も投稿できるはず．．
+<img src='/static/images/articles/2/ada1cec9de990a991811ae4c5f1e3107.webp' origin_url='https://user-images.githubusercontent.com/42331656/175807828-0e2a727d-e625-421f-bc89-34df4a5285d4.jpg' alt='2021060815123909' />
+
+テストがてら前にVirtualCastで遊んだ時の写真貼っときます。
+最近全くVR使えてないけど，時々できるといいなー
+
+
+RibbonCMSがちゃんと完成したら↓記事とかでまた報告しますねー．
 
 #5 
+
+---
+
+ではでは～
+
