@@ -35,8 +35,12 @@ jobs:
         path: side_m
         ref: main
 
-    - name: Install Package
-      run: |
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+    - run: |
         cd side_m
         pip install -r requirements.txt
 
@@ -72,9 +76,10 @@ jobs:
 
     # FRONTEND BUILD
     - name: Setup Node.js
-      uses: actions/setup-node@v2
+    - uses: actions/setup-node@v3
       with:
         node-version: 16.x.x
+        cache: 'npm'
 
     - name: Install NPM packages
       run: npm ci
