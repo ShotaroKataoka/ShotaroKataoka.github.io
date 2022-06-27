@@ -80,7 +80,14 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: 16.x.x
-        cache: 'npm'
+
+    - uses: actions/cache@v3
+      id: node_modules_cache_id
+      env:
+        cache-name: cache-node-modules
+      with:
+        path: 'src/node_modules'
+        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('src/package-lock.json') }}
 
     - name: Install NPM packages
       run: npm ci
