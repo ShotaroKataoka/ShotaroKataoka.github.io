@@ -8,7 +8,7 @@ tag_ids:
 - 4263726428
 - 4263728284
 title: GitHub Actionsでビルドを高速化したい！
-updated_at: 2022年06月27日 23時07分
+updated_at: 2022年06月27日 23時20分
 
 ---
 かたおかです！
@@ -51,3 +51,8 @@ https://qiita.com/akubi0w1/items/2f4bf5d3ce7e5e77dfd7
 ```
 正しくは，`path: front/src/node_modules`かな？
 これでうまくいってくれ・・・！
+
+```
+Warning: Path Validation Error: Path(s) specified in the action for caching do(es) not exist, hence no cache is being saved.
+```
+😢
