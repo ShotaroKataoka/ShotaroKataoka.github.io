@@ -8,7 +8,7 @@ tag_ids:
 - 4263726428
 - 4263728284
 title: GitHub Actionsでビルドを高速化したい！
-updated_at: 2022年06月27日 23時20分
+updated_at: 2022年06月28日 00時12分
 
 ---
 かたおかです！
@@ -29,7 +29,7 @@ RibbonCMSではビルドを2回行います。
 これによりNext.jsを用いてhtmlなどを生成しています。
 <br/>
 
-このような仕組みのため、RibbonCMSではGitHub ActionsPythonとNPMの両方のパッケージインストールを必要としています。
+このような仕組みのため、RibbonCMSではPythonとNPMの両方のパッケージインストールを必要としています。
 記事投稿や編集のために毎回これをしているので，このインストール時間がかなりネックになってしまっている現状です。
 
 ## なんか失敗する．．
@@ -52,7 +52,18 @@ https://qiita.com/akubi0w1/items/2f4bf5d3ce7e5e77dfd7
 正しくは，`path: front/src/node_modules`かな？
 これでうまくいってくれ・・・！
 
-```
-Warning: Path Validation Error: Path(s) specified in the action for caching do(es) not exist, hence no cache is being saved.
-```
-😢
+## cache読み込めてそうだけど早くならない
+cache読み込んだらインストールしないようにすべき？
+やってみる
+-> 単純にインスト―ルしないようにするとエラーになった
+cacheリストアだけだとやっぱりpipが読み込めていないぽい
+<br/>
+
+venvをcacheしてみよう。
+これならいけるやろ！
+<br/>
+
+->
+ModuleNotFoundになった😢
+venvのactivateを毎回やらないとだめっぽい。
+Python実行前に毎stepでactivateしてみる。
