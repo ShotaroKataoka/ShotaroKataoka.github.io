@@ -8,7 +8,7 @@ tag_ids:
 - 4263726428
 - 4263728284
 title: GitHub Actionsでビルドを高速化したい！
-updated_at: 2022年06月28日 00時21分
+updated_at: 2022年06月28日 00時34分
 
 ---
 かたおかです！
@@ -72,3 +72,74 @@ Python実行前に毎stepでactivateしてみる。
 あと，Nodeの方もうまくいってた
 こっちは`npm ci`の実行をcacheの有無で制御しただけだったけど時間短縮してビルドもできてた
 あとはpipのcacheで2回目がはやくなってるかどうか
+<br/>
+
+-> 成功！
+合計1分程ビルド時間を短縮できた！
+2m30sから1m30sなので40%くらい時間削減できたのかな？
+
+## まとめ
+`actions/cache`でpipとnpmの依存関係インストール時間を短縮した。
+pipはvenvを作成してそのenvをcacheするとうまくいった。
+npmは`node_modules`をcacheするとうまくいった。
+加えてcacheするだけだと，cache読み込み後インストールを開始して結局時間が変わらなくなるので，cacheがあればインストールをしないように`if`をする必要があった。
+
+↓Python部分のyaml（抜粋）
+```yaml
+    - uses: actions/setup-python@v4
+      id: setup_python_id
+      with:
+        python-version: '3.9'
+
+    - uses: actions/cache@v3
+      id: cache-venv
+      with:
+        # side_mはpythonプログラムのルートディレクトリ
+        path: side_m/.venv
+        key: ${{ runner.os }}-venv-${{ hashFiles('side_m/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-venv-
+
+    - name: Create venv
+      if: steps.cache-venv.outputs.cache-hit != 'true'
+      run: |
+        cd side_m
+        python -m venv .venv
+        . ./.venv/bin/activate
+        pip install -r requirements.txt
+
+    - name: Check Publish flag
+      run: |
+        cd side_m
+        . ./.venv/bin/activate
+        python3 check.py
+```
+
+↓ Next.js部分のyaml（抜粋）
+```yaml
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16.x.x
+
+    - uses: actions/cache@v3
+      id: node_modules_cache_id
+      env:
+        cache-name: cache-node-modules
+      with:
+        # front/src/はフロントエンドプログラムのルートディレクトリ
+        path: 'front/src/node_modules'
+        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('front/src/package-lock.json') }}
+
+    - name: Install NPM packages
+      if: ${{ steps.node_modules_cache_id.outputs.cache-hit != 'true' }}
+      run: npm ci
+      working-directory: ./front/src
+```
+
+こんな感じでキャッシュしました。
+試行錯誤しながらなので他にベストプラクティスあるかもです！
+
+もっといい方法を見つけたら追記しますね
+
+ではでは
