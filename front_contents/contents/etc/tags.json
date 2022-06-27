@@ -1,7 +1,7 @@
 {
-    "4261073428": {
-        "name": "日記",
-        "color": "006b75",
+    "4263726428": {
+        "name": "開発",
+        "color": "bfd4f2",
         "description": ""
     },
     "4263728284": {
@@ -9,14 +9,14 @@
         "color": "fff03c",
         "description": ""
     },
+    "4261073428": {
+        "name": "日記",
+        "color": "006b75",
+        "description": ""
+    },
     "4263720034": {
         "name": "star",
         "color": "fbca04",
-        "description": ""
-    },
-    "4263726428": {
-        "name": "開発",
-        "color": "bfd4f2",
         "description": ""
     },
     "4263728970": {
