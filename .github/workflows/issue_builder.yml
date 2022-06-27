@@ -36,11 +36,13 @@ jobs:
         ref: main
 
     - uses: actions/setup-python@v4
+      id: setup_python_id
       with:
         python-version: '3.9'
         cache: 'pip'
 
     - name: pip install
+      if: ${{ steps.setup_python_id.outputs.cache-hit != 'true' }}
       run: |
         cd side_m
         pip install -r requirements.txt
@@ -90,6 +92,7 @@ jobs:
         key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('front/src/package-lock.json') }}
 
     - name: Install NPM packages
+      if: ${{ steps.node_modules_cache_id.outputs.cache-hit != 'true' }}
       run: npm ci
       working-directory: ./front/src
 
