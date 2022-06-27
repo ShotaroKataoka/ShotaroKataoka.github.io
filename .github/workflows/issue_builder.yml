@@ -86,7 +86,7 @@ jobs:
       env:
         cache-name: cache-node-modules
       with:
-        path: 'src/node_modules'
+        path: 'front/src/node_modules'
         key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('front/src/package-lock.json') }}
 
     - name: Install NPM packages
