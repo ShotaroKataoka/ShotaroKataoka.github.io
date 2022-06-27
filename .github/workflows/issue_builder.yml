@@ -39,13 +39,25 @@ jobs:
       id: setup_python_id
       with:
         python-version: '3.9'
-        cache: 'pip'
 
-    - name: pip install
-      if: ${{ steps.setup_python_id.outputs.cache-hit != 'true' }}
+    - uses: actions/cache@v3
+      id: cache-venv
+      with:
+        path: side_m/.venv
+        key: ${{ runner.os }}-venv-${{ hashFiles('side_m/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-venv-
+
+    - name: Create venv
+      if: steps.cache-venv.outputs.cache-hit != 'true'
       run: |
         cd side_m
+        python -m venv .venv
+        . ./.venv/bin/activate
         pip install -r requirements.txt
+
+    - name: Activate venv
+      run: . side_m/.venv/bin/activate
 
     - name: Check Publish flag
       run: |
