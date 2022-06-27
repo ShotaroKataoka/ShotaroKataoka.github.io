@@ -8,7 +8,7 @@ tag_ids:
 - 4263726428
 - 4263728284
 title: GitHub Actionsでビルドを高速化したい！
-updated_at: 2022年06月28日 00時12分
+updated_at: 2022年06月28日 00時21分
 
 ---
 かたおかです！
@@ -55,15 +55,20 @@ https://qiita.com/akubi0w1/items/2f4bf5d3ce7e5e77dfd7
 ## cache読み込めてそうだけど早くならない
 cache読み込んだらインストールしないようにすべき？
 やってみる
--> 単純にインスト―ルしないようにするとエラーになった
-cacheリストアだけだとやっぱりpipが読み込めていないぽい
 <br/>
 
+-> 単純にインスト―ルしないようにするとエラーになった
+cacheリストアだけだとやっぱりpipが読み込めていないぽい
 venvをcacheしてみよう。
 これならいけるやろ！
 <br/>
 
-->
-ModuleNotFoundになった😢
+-> ModuleNotFoundになった😢
 venvのactivateを毎回やらないとだめっぽい。
 Python実行前に毎stepでactivateしてみる。
+<br/>
+
+-> いけたっぽい
+あと，Nodeの方もうまくいってた
+こっちは`npm ci`の実行をcacheの有無で制御しただけだったけど時間短縮してビルドもできてた
+あとはpipのcacheで2回目がはやくなってるかどうか
