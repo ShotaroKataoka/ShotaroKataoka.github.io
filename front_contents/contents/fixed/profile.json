@@ -1,6 +1,6 @@
 {
     "site_description": "## このサイトの紹介\n\nこのサイトはRibbonCMSで作成しました。\n画像を含めたすべての情報や記事はGitHub Issuesによって更新されています",
-    "author_description_detail": "主に機械学習を用いた動画分析手法の研究を行っている博士学生です。\n趣味は気の向くままの開発とコーヒー。VIMを愛しています。\n昔からSNSとかで発信するのが苦手でしたが一念発起してブログを開始しました。",
+    "author_description_detail": "主に機械学習を用いた動画分析手法の研究を行っている博士学生です。\n趣味はツール開発とコーヒー。VIMを愛しています。\n昔からSNSとかで発信するのが苦手でしたが一念発起してブログを開始しました。",
     "skills_data": [
         {
             "title": "Python",
@@ -16,7 +16,7 @@
         },
         {
             "title": "Rust",
-            "description": "好きな言語です。マスターはしていません。\n[ls-improved](https://github.com/ShotaroKataoka/ls-Improved)など趣味開発で使用しています。WASM利用も興味ありますがウェブは専門外なので使ったことがありません。",
+            "description": "私の好きな言語です。マスターはしていません。\n[ls-improved](https://github.com/ShotaroKataoka/ls-Improved)など趣味開発で使用しています。WASM利用も興味ありますがウェブは専門外なので使ったことがありません。そのうち試してみたい。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168748889-8bcd4ec8-4894-416f-8b8f-8dbd4b8fedb4.png",
                 "path": "/static/images/fixed/profile/56b3a46eed69dd74b308115bba871858.webp"
@@ -27,7 +27,7 @@
         },
         {
             "title": "Next.js",
-            "description": "このサイトを実装するにあたり勉強しました。それまでjavascriptすら触ったことのないWEB素人でしたがなんとか書けるようになりました。\nNext.js×Typescriptで始めたので、正直なところJavascriptが書けるかは分かりません。",
+            "description": "このサイトを実装するにあたり勉強しました。それまでjavascriptすら触ったことのないWEB素人でしたがなんとか書けるようになりました。\nNext.js×Typescriptでやってます。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168748817-f8bff2cc-d444-436c-86b1-fec14ea98bab.png",
                 "path": "/static/images/fixed/profile/ed70c0cbb4c869019bcbae7494d73bf9.webp"
@@ -40,7 +40,7 @@
         },
         {
             "title": "C / C++",
-            "description": "昔使っていましたがもう忘れました。\nC言語は初めて勉強した言語でマイコン開発に使用していました。\nC++は趣味で勉強していましたが，Rustを知ってしまったので辞めてしまいました。",
+            "description": "昔使っていましたがもう忘れました。\nC言語は初めて勉強した言語でマイコン開発に使用していました。\nC++は趣味で勉強していましたが，Rustを知って辞めてしまいました。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168736450-37093830-127a-41fb-ad6e-c0faaec9605e.jpg",
                 "path": "/static/images/fixed/profile/3a9a5a892cf8d20794bf6e4ed34584d3.webp"
@@ -82,7 +82,7 @@
         },
         {
             "title": "RibbonCMS",
-            "description": "**Next.js／Python**製のコンテンツ管理システムです。GitHub Issuesの操作のみでブログや固定ページの投稿・更新ができることが特徴です。好きなテンプレートリポジトリをForkするだけでWEBページの見た目や構成をカスタマイズできます。（鋭意開発中）\nテンプレートは自由に開発・配布できるので、**開発に興味がある方はぜひご連絡ください！！**\n（そのうちテンプレート集みたいなサイトを作ってそこで紹介したいと思っています）",
+            "description": "**Next.js／Python**製のコンテンツ管理システムです。GitHub Issuesの操作のみでブログや固定ページの投稿・更新ができることが特徴です。好きなテンプレートリポジトリをForkするだけでWEBページの見た目や構成をカスタマイズできます。\nテンプレートは自由に開発・配布できるので、**開発に興味がある方はぜひご連絡ください！！**\n（そのうちテンプレート集みたいなサイトを作ってそこで紹介したいと思っています）",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168722759-38bce3a8-55fd-44d1-a992-9d2a73377087.png",
                 "path": "/static/images/fixed/profile/34303b6f2d73709f2623b2d46ac52ba6.webp"
