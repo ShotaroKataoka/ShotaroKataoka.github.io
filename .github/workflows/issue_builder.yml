@@ -11,4 +11,4 @@ jobs:
 
     - name: aaa
       run: |
-        echo "${{ github.event }}"
+        echo "${{ toJson(github.event) }}"
