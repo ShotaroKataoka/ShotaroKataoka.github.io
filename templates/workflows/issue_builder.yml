@@ -12,7 +12,7 @@ jobs:
 
     - name: aaa
       run: |
-        echo ${containes( github.event.issue.labels, '"name": "authed"' )}
+        echo ${contains( github.event.issue.labels, '"name": "authed"' )}
 
     - uses: actions/checkout@v2
 
