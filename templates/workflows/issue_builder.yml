@@ -15,7 +15,7 @@ jobs:
     - name: aaa
       run: |
         echo "${JOB_LABELS}"
-        echo ${contains( "${JOB_LABELS}", 'aa' )}
+        echo ${contains( "bb", 'aa' )}
 
     - uses: actions/checkout@v2
 
