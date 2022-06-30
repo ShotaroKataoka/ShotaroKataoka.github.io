@@ -8,15 +8,9 @@ jobs:
   build_md:
     env:
       JOB_LABELS: ${{ toJson(github.event.issue.labels) }}
-    if: contains( 'aa', 'aa' )
+    if: contains( ${JOB_LABELS}, 'aa' )
     runs-on: ubuntu-latest
     steps: 
-
-    - name: aaa
-      run: |
-        echo "${JOB_LABELS}"
-        echo ${contains( "bb", 'aa' )}
-
     - uses: actions/checkout@v2
 
     # ISSUE BUILD
