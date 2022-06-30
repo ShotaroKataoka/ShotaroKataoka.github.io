@@ -6,7 +6,7 @@ on:
 
 jobs:
   build_md:
-    if: contains( ${{ toJson(github.event.issue.labels) }}, 'authed' )
+    if: contains( ${{ github.event.issue.labels }}, 'authed' )
     runs-on: ubuntu-latest
     steps: 
     - uses: actions/checkout@v2
