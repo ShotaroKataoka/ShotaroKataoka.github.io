@@ -6,7 +6,7 @@ on:
 
 jobs:
   build_md:
-    if: containes( github.event.issue.labels, '"name": "authed"' )
+    if: containes( 'aa', '"name": "authed"' )
     runs-on: ubuntu-latest
     steps: 
 
