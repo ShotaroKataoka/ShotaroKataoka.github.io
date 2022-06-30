@@ -9,5 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
 
-    run: |
-      echo "${{ github.event }}"
+    - name: aaa
+      run: |
+        echo "${{ github.event }}"
