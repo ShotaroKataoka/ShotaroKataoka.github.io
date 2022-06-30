@@ -13,7 +13,7 @@ jobs:
     - name: aaa
       run: |
         echo "${{ toJson(github.event.issue.labels) }}"
-        echo ${contains( "${{ toJson(github.event.issue.labels) }}"), '"name": "authed"' )}
+        echo ${contains( '${{ toJson(github.event.issue.labels) }}', '"name": "authed"' )}
 
     - uses: actions/checkout@v2
 
