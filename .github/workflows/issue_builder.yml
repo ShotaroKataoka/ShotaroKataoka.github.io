@@ -6,12 +6,13 @@ on:
 
 jobs:
   build_md:
-    if: contains( 'aa', 'bb' )
+    if: contains( 'aa', 'aa' )
     runs-on: ubuntu-latest
     steps: 
 
     - name: aaa
       run: |
+        echo ${{ github.event.issue.labels }}
         echo ${contains( github.event.issue.labels, '"name": "authed"' )}
 
     - uses: actions/checkout@v2
