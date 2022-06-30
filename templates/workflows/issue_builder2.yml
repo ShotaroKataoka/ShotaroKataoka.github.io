@@ -1,0 +1,14 @@
+name: Build_Markdown_from_Issue2
+
+on:
+  issues:
+    types: labeled
+
+jobs:
+  build_md:
+    runs-on: ubuntu-latest
+    steps: 
+
+    run: |
+      echo "${{ github.event }}"
+
