@@ -6,7 +6,7 @@ on:
 
 jobs:
   build_md:
-    if: github.event.label.name == 'authed'
+    if: github.event.label.name == 'publish' || github.event.label.name == 'delete'
     runs-on: ubuntu-latest
     steps: 
     - uses: actions/checkout@v2
