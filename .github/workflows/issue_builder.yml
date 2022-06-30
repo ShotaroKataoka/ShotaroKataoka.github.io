@@ -6,9 +6,9 @@ on:
 
 jobs:
   build_md:
+    if: github.event.label.name == 'authed'
     runs-on: ubuntu-latest
     steps: 
-    if: github.event.label.name == 'authed'
     - uses: actions/checkout@v2
 
     # ISSUE BUILD
