@@ -6,7 +6,7 @@ on:
 
 jobs:
   build_md:
-    if: containes( 'aa', 'bb' )
+    if: contains( 'aa', 'bb' )
     runs-on: ubuntu-latest
     steps: 
 
