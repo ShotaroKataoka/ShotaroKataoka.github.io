@@ -6,9 +6,7 @@ on:
 
 jobs:
   build_md:
-    env:
-      JOB_LABELS: ${{ toJson(github.event.issue.labels) }}
-    if: contains( ${JOB_LABELS}, 'aa' )
+    if: contains( ${{ toJson(github.event.issue.labels) }}, 'aa' )
     runs-on: ubuntu-latest
     steps: 
     - uses: actions/checkout@v2
