@@ -166,6 +166,6 @@ pathの指定が間違ってるみたい。参考サイトだと`node_modules`�
         key: ${{ runner.os }}-nextjs-${{ hashFiles('front/src/package-lock.json') }}-${{ hashFiles('front/src/**/*.js') }}
 ```
 
-速くなるか？
+速くなるか？？
 
 ではでは
