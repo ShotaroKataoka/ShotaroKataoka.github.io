@@ -96,14 +96,17 @@ jobs:
         node-version: 16.x.x
 
     - uses: actions/cache@v3
+      id: cache-node-modules
+      with:
+        path: 'front/src/node_modules'
+        key: ${{ runner.os }}-node-modules-${{ hashFiles('front/src/package-lock.json') }}
+
+    - uses: actions/cache@v3
       id: cache-nextjs
       with:
-        path: |
-          'front/src/node_modules'
-          'front/src/.next/cache'
+        path: 'front/src/.next/cache'
         key: ${{ runner.os }}-nextjs-${{ hashFiles('front/src/package-lock.json') }}-${{ hashFiles('front/src/**/*.js') }}
-        restore-keys: |
-          ${{ runner.os }}-nextjs-${{ hashFiles('front/src/package-lock.json') }}-
+
     - name: Install NPM packages
       if: ${{ steps.node_modules_cache_id.outputs.cache-hit != 'true' }}
       run: npm ci
