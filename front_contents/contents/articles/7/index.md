@@ -145,5 +145,25 @@ npmは`node_modules`をcacheするとうまくいった。
 ## 追記（2022-07-02）
 Next.jsの静的ビルドを実行するので `.next/cache` をキャッシュすると速くなるかも。
 ということで試してみます。
+<br />
+
+-> [このサイト](https://www.suhanwijaya.com/posts/use-github-actions-deploy-nextjs-ssg-site)の通りやってみたけど，`Warning: Path Validation Error: Path(s) specified in the action for caching do(es) not exist, hence no cache is being saved.`って言われてキャッシュできなかった。
+<br />
+
+pathの指定が間違ってるみたい。参考サイトだと`node_modules`と`.next/cache`を一緒にキャッシュしようとしていたので，以下のように別々にキャッシュしてみる。
+
+```yaml
+    - uses: actions/cache@v3
+      id: cache-node-modules
+      with:
+        path: 'front/src/node_modules'
+        key: ${{ runner.os }}-node-modules-${{ hashFiles('front/src/package-lock.json') }}
+
+    - uses: actions/cache@v3
+      id: cache-nextjs
+      with:
+        path: 'front/src/.next/cache'
+        key: ${{ runner.os }}-nextjs-${{ hashFiles('front/src/package-lock.json') }}-${{ hashFiles('front/src/**/*.js') }}
+```
 
 ではでは
