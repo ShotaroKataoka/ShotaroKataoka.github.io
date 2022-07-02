@@ -19,7 +19,7 @@ updated_at: 2022-06-29 06:00:45+00:00
 
 ## 画像も貼れるかテストです！
 画像も投稿できるはず．．
-<img src='/static/images/articles/2/ada1cec9de990a991811ae4c5f1e3107.webp' origin_url='https://user-images.githubusercontent.com/42331656/175807828-0e2a727d-e625-421f-bc89-34df4a5285d4.jpg' alt='2021060815123909' />
+<img src='/static/images/articles/2/70fb258c316713e62220f865820a71e8.webp' origin_url='https://user-images.githubusercontent.com/42331656/175805943-bb98320a-3853-478c-ba75-8e591498785d.jpg' alt='2021060815123909' />
 
 テストがてら前にVirtualCastで遊んだ時の写真貼っときます。
 最近全くVR使えてないけど，時々できるといいなー
