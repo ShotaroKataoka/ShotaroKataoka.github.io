@@ -4,7 +4,7 @@
     "skills_data": [
         {
             "title": "Python",
-            "description": "一番得意な言語です。研究や趣味開発で主に使っています。\nデータサイエンス・機械学習，スクレイピング，CUIツール，GUIツール，LINEボットやslackボットなど今まで作ったものの多くはPythonを使用しています。Pythonは手軽でいいですよね。",
+            "description": "一番得意な言語です。研究や趣味開発で主に使っています。\nDS / ML / DL，スクレイピング，CUIツール，GUIツール，LINEボットやslackボットなど今まで作ったものの多くはPythonを使用しています。Pythonは手軽でいいですよね。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168748967-d8aeac42-4035-425e-809a-3b7687f794a5.png",
                 "path": "/static/images/fixed/profile/082525b402256774f1a9575c15b8443b.webp"
@@ -12,6 +12,18 @@
             "tags": [
                 "Programming language",
                 "Data Science"
+            ]
+        },
+        {
+            "title": "PyTorch",
+            "description": "研究やインターンで使用しています。独自アーキテクチャのモデルを組んだりもします。動画像処理や自然言語処理 (BERT系) を主に扱っています。",
+            "image_url": {
+                "url": "https://user-images.githubusercontent.com/42331656/176980829-e4fb5bc7-1b30-405c-91b0-d99590270104.png",
+                "path": "/static/images/fixed/profile/d0083ad91af706e1be5de7fa7600e0bd.webp"
+            },
+            "tags": [
+                "Data Science",
+                "Framework"
             ]
         },
         {
