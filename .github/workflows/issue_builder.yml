@@ -96,7 +96,7 @@ jobs:
         node-version: 16.x.x
 
     - uses: actions/cache@v3
-      id: Next.js Cache
+      id: cache-nextjs
       with:
         path: |
           'front/src/node_modules'
