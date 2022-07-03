@@ -18,7 +18,7 @@ jobs:
         ISSUE_ID: ${{ github.event.issue.number }}
         BODY: ${{ github.event.issue.body }}
         LABELS: ${{ toJson(github.event.issue.labels) }}
-        CLOSED_AT: ${{ github.event.issue.closed_at }}
+        #CLOSED_AT: ${{ github.event.issue.closed_at }}
         STATUS: ${{ github.event.action }}
       run: |
         mkdir issue
@@ -27,7 +27,8 @@ jobs:
         echo "${ISSUE_ID}" >| issue/issue_id.txt
         echo "${BODY}" >| issue/body.txt
         echo "${LABELS}" >| issue/labels.txt
-        echo "${CLOSED_AT}" >| issue/closed_at.txt
+        #echo "${CLOSED_AT}" >| issue/closed_at.txt
+        echo "$(date +'%Y-%m-%dT%H:%M:%SZ')" >| issue/labeled_at.txt
         echo "${STATUS}" >| issue/status.txt
 
     - name: Checkout
