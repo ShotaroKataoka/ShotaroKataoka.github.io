@@ -22,7 +22,7 @@ jobs:
         STATUS: ${{ github.event.action }}
       run: |
         mkdir issue
-        echo "${{ github.event.label }}"
+        echo "${{ toJson(github.event.label) }}"
         echo "${TITLE}" >| issue/title.txt
         echo "${ISSUE_ID}" >| issue/issue_id.txt
         echo "${BODY}" >| issue/body.txt
