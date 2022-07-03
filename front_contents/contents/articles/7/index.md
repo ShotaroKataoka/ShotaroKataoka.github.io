@@ -166,6 +166,11 @@ pathの指定が間違ってるみたい。参考サイトだと`node_modules`�
         key: ${{ runner.os }}-nextjs-${{ hashFiles('front/src/package-lock.json') }}-${{ hashFiles('front/src/**/*.js') }}
 ```
 
-速くなるか？
+速くなるか？？
+<br />
+
+ビルド完了までは～10sくらい（？）若干速くなった
+`.next/cache`の読み込みや保存に結構時間かかるのでトータルでは遅くなる。
+ただしビルド完了してpushした後にキャッシュ保存をするとキャッシュ保存部分の時間は無視できるのでその分でちょっと速くなった。
 
 ではでは
