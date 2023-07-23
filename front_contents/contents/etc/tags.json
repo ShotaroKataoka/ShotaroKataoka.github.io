@@ -1,7 +1,7 @@
 {
-    "4263726428": {
-        "name": "開発",
-        "color": "62F7C5",
+    "4261073428": {
+        "name": "日記",
+        "color": "E78123",
         "description": ""
     },
     "4263728284": {
@@ -9,19 +9,19 @@
         "color": "fff03c",
         "description": ""
     },
-    "4263728970": {
-        "name": "Next.js",
-        "color": "E63EC8",
-        "description": ""
-    },
-    "4261073428": {
-        "name": "日記",
-        "color": "E78123",
+    "4263726428": {
+        "name": "開発",
+        "color": "62F7C5",
         "description": ""
     },
     "4263720034": {
         "name": "star",
         "color": "fbca04",
+        "description": ""
+    },
+    "4263728970": {
+        "name": "Next.js",
+        "color": "E63EC8",
         "description": ""
     }
 }
