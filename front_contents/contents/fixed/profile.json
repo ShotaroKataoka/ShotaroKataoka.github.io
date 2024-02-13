@@ -130,15 +130,15 @@
             "date": "2018年4月"
         },
         {
-            "text": "<font color='#E53E3E'>**活動**</font>： NEDOの研究開発事業[未踏AIフロンティアプログラム](https://scrapbox.io/mitou-meikan/AI%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2)に採択 (2019.03 - 2020.02)",
+            "text": "<font color='#E53E3E'>**実績**</font>： NEDOの研究開発事業[未踏AIフロンティアプログラム](https://scrapbox.io/mitou-meikan/AI%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2)に採択 (2019.03 - 2020.02)",
             "date": "2019年3月"
         },
         {
-            "text": "<font color='#319795'>**インターンシップ**</font>：[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/)でRAとして勤務(2019.07 - 2020.03)\n[このサービス](https://www.sonycsl.co.jp/press/prs20200702/)に関わる研究開発に従事",
+            "text": "<font color='#38A169'>**インターンシップ**</font>：[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/)でRAとして勤務(2019.07 - 2020.03)\n[このサービス](https://www.sonycsl.co.jp/press/prs20200702/)に関わる研究開発に従事",
             "date": "2019年7月"
         },
         {
-            "text": "<font color='#E53E3E'>**活動**</font>： 経産省から研究成果が認められ<font color='#805AD5'>**AIフロンティアパスファインダー**</font>として認定",
+            "text": "<font color='#E53E3E'>**実績**</font>： 経産省から研究成果が認められ<font color='#E53E3E'>**AIフロンティアパスファインダー**</font>として認定",
             "date": "2020年2月"
         },
         {
@@ -150,20 +150,23 @@
             "date": "2020年4月"
         },
         {
-            "text": "<font color='#E53E3E'>**活動**</font>： 経済産業省委託事業の[L-Creator's Bridge](https://fairydevices.jp/news_20210308)にプロジェクトが採択され研究開発・成果報告を実施(2020.10 - 2021.01)",
+            "text": "<font color='#E53E3E'>**実績**</font>： 経済産業省委託事業の[L-Creator's Bridge](https://fairydevices.jp/news_20210308)にプロジェクトが採択され研究開発・成果報告を実施(2020.10 - 2021.01)",
             "date": "2020年10月"
         },
         {
-            "text": "<font color='#319795'>**インターンシップ**</font>：[株式会社アイデミー](https://aidemy.net/)に勤務(2020.11 - 現在)\nPythonや機械学習に関する学習コンテンツを法人等に提供している企業。学習者からの技術的な内容に関する質問に対しての質問対応に従事。また、質問対応業務効率化システムの開発を提案し、その開発を主導。",
+            "text": "<font color='#38A169'>**インターンシップ**</font>：[株式会社アイデミー](https://aidemy.net/)に勤務(2020.11 - 現在)\nPythonや機械学習に関する学習コンテンツを法人等に提供している企業。学習者からの技術的な内容に関する質問に対しての質問対応に従事。また、質問対応業務効率化システムの開発を提案し、その開発を主導。",
             "date": "2020年11月"
         },
         {
-            "text": "<font color='#319795'>**インターンシップ**</font>： [株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/)でRAとして勤務(2021.02 - 2022.07)\n前回と同じプロジェクトにアサインされ、より発展的な研究開発に従事",
+            "text": "<font color='#38A169'>**インターンシップ**</font>： [株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/)でRAとして勤務(2021.02 - 2022.07)\n前回と同じプロジェクトにアサインされ、より発展的な研究開発に従事",
             "date": "2021年2月"
         },
         {
-            "text": "<font color='#E53E3E'>**活動**</font>： [株式会社マヨラボ](https://mayolab.co.jp)を起業",
+            "text": "<font color='#E53E3E'>**実績**</font>： [株式会社マヨラボ](https://mayolab.co.jp)を起業",
             "date": "2021年2月"
+        },
+        {
+            "text": "<font color='#E53E3E'>**実績**</font>： [新潟版未踏的人材育成事業ETSUZAN](https://etsuzan.org/)のPMとして選任され活動。(2023.07 - 2024.01)\n２つのプロジェクトを採択し、伴走的支援を遂行した。\ndate: 2023年7月"
         }
     ]
 }
