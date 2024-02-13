@@ -134,7 +134,7 @@
             "date": "2019年3月"
         },
         {
-            "text": "<font color='#38A169'>**インターンシップ**</font>：[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/)でRAとして勤務(2019.07 - 2020.03)\n[このサービス](https://www.sonycsl.co.jp/press/prs20200702/)に関わる研究開発に従事",
+            "text": "<font color='#38A169'>**インターンシップ**</font>：[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/) RA (2019.07 - 2020.03)\nRAとして[コールセンターの業務効率改善AI](https://www.sonycsl.co.jp/press/prs20200702/)の研究開発に取り組みました。\nディープラーニング領域（NLP）の先行研究・検証を担当しました。",
             "date": "2019年7月"
         },
         {
@@ -158,16 +158,20 @@
             "date": "2020年11月"
         },
         {
-            "text": "<font color='#38A169'>**インターンシップ**</font>： [株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/)でRAとして勤務(2021.02 - 2022.07)\n前回と同じプロジェクトにアサインされ、より発展的な研究開発に従事",
+            "text": "<font color='#38A169'>**インターンシップ**</font>： [株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/) RA (2021.02 - 2022.07)\n前回のインターンシップに引き続き、RAとして[コールセンターの業務効率改善AI](https://www.sonycsl.co.jp/press/prs20200702/)の研究開発に取り組みました。\nディープラーニング領域（NLP）の先行研究・検証を担当し、より発展的・実践的な研究開発に携わりました。",
             "date": "2021年2月"
         },
         {
-            "text": "<font color='#E53E3E'>**実績**</font>： [株式会社マヨラボ](https://mayolab.co.jp)を起業\n![企業ロゴ](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/8157a721-3cdb-439b-a2e7-d7f08cbb7ad3)\nAI技術の産業応用により人類の進歩を支えることを目指す大学発ベンチャー。\n複数企業との共同研究を通して、AIの社会実装を経験。",
+            "text": "<font color='#E53E3E'>**実績**</font>： [株式会社マヨラボ](https://mayolab.co.jp)を起業\n![企業ロゴ](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/b72aee8b-f14e-41c3-8ec3-7c979e70c6d6)\nAI技術の産業応用により人類の進歩を支えることを目指す大学発ベンチャー。\n複数企業との共同研究を通して、AIの社会実装を経験。",
             "date": "2021年2月"
         },
         {
             "text": "<font color='#E53E3E'>**実績**</font>： [新潟版未踏的人材育成事業ETSUZAN](https://etsuzan.org/)のPMとして選任され活動。(2023.07 - 2024.01)\n２つのプロジェクトを採択し、伴走的支援を遂行した。",
             "date": "2023年7月"
+        },
+        {
+            "text": "<font color='#38A169'>**インターンシップ**</font>： [国立研究開発法人理化学研究所](https://grp.riken.jp/labs/knowl_acqui_dialogue/) (2023.09~2023.10)\nGRP 知識獲得・対話研究チームで特許分野の大規模視覚言語モデル(LLM)学習に取り組みました。\n研究内容の提案・データセット作成・学習準備までを担当しました。",
+            "date": "2023年9月"
         }
     ]
 }
