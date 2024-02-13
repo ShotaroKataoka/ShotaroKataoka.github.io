@@ -134,7 +134,7 @@
             "date": "2019年3月"
         },
         {
-            "text": "<font color='#38A169'>**インターンシップ**</font>：[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/) RA (2019.07 - 2020.03)\nRAとして[コールセンターの業務効率改善AI](https://www.sonycsl.co.jp/press/prs20200702/)の研究開発に取り組みました。\nディープラーニング領域（NLP）の先行研究・検証を担当しました。",
+            "text": "<font color='#38A169'>**インターンシップ**</font>：[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/) (2019.07 - 2020.03)\nリサーチアシスタントとして[コールセンターの業務効率改善AI](https://www.sonycsl.co.jp/press/prs20200702/)の研究開発に取り組みました。\nディープラーニング領域（NLP）の先行研究・検証を担当しました。",
             "date": "2019年7月"
         },
         {
@@ -158,7 +158,7 @@
             "date": "2020年11月"
         },
         {
-            "text": "<font color='#38A169'>**インターンシップ**</font>： [株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/) RA (2021.02 - 2022.07)\n前回のインターンシップに引き続き、RAとして[コールセンターの業務効率改善AI](https://www.sonycsl.co.jp/press/prs20200702/)の研究開発に取り組みました。\nディープラーニング領域（NLP）の先行研究・検証を担当し、より発展的・実践的な研究開発に携わりました。",
+            "text": "<font color='#38A169'>**インターンシップ**</font>： [株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/) (2021.02 - 2022.07)\n前回に引き続き、リサーチアシスタントとして[コールセンターの業務効率改善AI](https://www.sonycsl.co.jp/press/prs20200702/)の研究開発に取り組みました。\nディープラーニング領域（NLP）の先行研究・検証を担当し、より発展的・実践的な研究開発に携わりました。",
             "date": "2021年2月"
         },
         {
@@ -172,6 +172,10 @@
         {
             "text": "<font color='#38A169'>**インターンシップ**</font>： [国立研究開発法人理化学研究所](https://grp.riken.jp/labs/knowl_acqui_dialogue/) (2023.09~2023.10)\nGRP 知識獲得・対話研究チームで特許分野の大規模視覚言語モデル(LLM)学習に取り組みました。\n研究内容の提案・データセット作成・学習準備までを担当しました。",
             "date": "2023年9月"
+        },
+        {
+            "text": "<font color='#E53E3E'>**実績**</font>：開発プロダクトのクラウドファンディングを実施＆目標達成\n日常の\"動き\"に音楽を融合するWeareable楽器デバイス [Synthevery : A New Instrument,ALL U NEED is Motion](https://www.indiegogo.com/projects/synthevery-a-new-instrument-all-u-need-is-motion/x/36534099#/)\nETSUZANでPMを担当したプロジェクトのクラウドファンディングを米国Indiegogoで実施し、開始3日間で目標金額を達成しました。\n![クラウドファンディングページのスクリーンショット](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/2985d46b-856c-4105-bb31-94ef77cabbdc)",
+            "date": "2024年1月"
         }
     ]
 }
