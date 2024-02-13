@@ -1,10 +1,10 @@
 {
     "site_description": "## このサイトの紹介\n\nこのサイトはRibbonCMSで作成しました。\n画像を含めたすべての情報や記事はGitHub Issuesによって更新されています",
-    "author_description_detail": "主に機械学習を用いた動画分析手法の研究を行っている博士学生です。\n趣味はツール開発とコーヒー。VIMを愛しています。\n昔からSNSとかで発信するのが苦手でしたが一念発起してブログを開始しました。",
+    "author_description_detail": "25卒の博士課程学生。AI・機械学習の産業応用が専門です。\n工場内動画解析や技術文書のNLPを研究しています。\n未踏事業の修了生で経産省からAIフロンティアパスファインダーとして認定されています！\n趣味：個人ツール開発／ボードゲーム・謎解き／カラオケ／VIM",
     "skills_data": [
         {
             "title": "Python",
-            "description": "一番得意な言語です。研究や趣味開発で主に使っています。\nDS / ML / DL，スクレイピング，CUIツール，GUIツール，LINEボットやslackボットなど今まで作ったものの多くはPythonを使用しています。Pythonは手軽でいいですよね。",
+            "description": "8年以上の経験。研究等の実務で使用。\nデータ分析 / 機械学習，スクレイピング，CUI / GUIツール開発，LINE / slackボット開発など。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168748967-d8aeac42-4035-425e-809a-3b7687f794a5.png",
                 "path": "/static/images/fixed/profile/082525b402256774f1a9575c15b8443b.webp"
@@ -16,7 +16,7 @@
         },
         {
             "title": "PyTorch",
-            "description": "研究やインターンで使用しています。独自アーキテクチャのモデルを組んだりもします。動画像処理や自然言語処理 (BERT系) を主に扱っています。",
+            "description": "研究やインターンシップで使用しています。論文の追実験や独自アーキテクチャモデルの構築をします。\n主な研究対象：動画像処理（動作検出）／自然言語処理",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/176980829-e4fb5bc7-1b30-405c-91b0-d99590270104.png",
                 "path": "/static/images/fixed/profile/d0083ad91af706e1be5de7fa7600e0bd.webp"
@@ -28,7 +28,7 @@
         },
         {
             "title": "Rust",
-            "description": "私の好きな言語です。マスターはしていません。\n[ls-improved](https://github.com/ShotaroKataoka/ls-Improved)など趣味開発で使用しています。WASM利用も興味ありますがウェブは専門外なので使ったことがありません。そのうち試してみたい。",
+            "description": "興味のある言語ですが、マスターはしていません。\n[ls-improved](https://github.com/ShotaroKataoka/ls-Improved)の趣味開発で使用しています。\nWASMでの利用も興味あります。そのうち試してみたい。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168748889-8bcd4ec8-4894-416f-8b8f-8dbd4b8fedb4.png",
                 "path": "/static/images/fixed/profile/56b3a46eed69dd74b308115bba871858.webp"
@@ -39,7 +39,7 @@
         },
         {
             "title": "Next.js",
-            "description": "このサイトを実装するにあたり勉強しました。それまでjavascriptすら触ったことのないWEB素人でしたがなんとか書けるようになりました。\nNext.js×Typescriptでやってます。",
+            "description": "このサイトを実装するにあたり勉強しました。\nNext.js×Typescriptでやってます。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168748817-f8bff2cc-d444-436c-86b1-fec14ea98bab.png",
                 "path": "/static/images/fixed/profile/ed70c0cbb4c869019bcbae7494d73bf9.webp"
@@ -52,7 +52,7 @@
         },
         {
             "title": "C / C++",
-            "description": "昔使っていましたがもう忘れました。\nC言語は初めて勉強した言語でマイコン開発に使用していました。\nC++は趣味で勉強していましたが，Rustを知って辞めてしまいました。",
+            "description": "昔使っていましたがもう忘れました。\nC言語は初めて勉強した言語でマイコン開発に使用していました。\nC++は軽く触ったことがある程度です。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168736450-37093830-127a-41fb-ad6e-c0faaec9605e.jpg",
                 "path": "/static/images/fixed/profile/3a9a5a892cf8d20794bf6e4ed34584d3.webp"
@@ -63,7 +63,7 @@
         },
         {
             "title": "Java",
-            "description": "大学の授業で習いました。\n簡単なAndroidアプリを作成しましたが，あまり好きな言語ではありません。",
+            "description": "大学の授業で習いました。\n簡単なAndroidアプリを作成しました。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168748711-b1434155-d633-4d3f-8313-4928b6a2998c.png",
                 "path": "/static/images/fixed/profile/1bbc7fcaa6084f049f1890c4358e5e02.webp"
