@@ -16,7 +16,7 @@
         },
         {
             "title": "PyTorch",
-            "description": "研究やインターンシップで使用しています。論文の追実験や独自アーキテクチャモデルの構築をします。\n主な研究対象：動画像処理（動作検出）／自然言語処理",
+            "description": "5年程度の研究・インターンでの実務経験。\n論文の追実験や独自アーキテクチャモデルの構築をします。\n主な研究対象：動画像処理（動作検出）／自然言語処理",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/176980829-e4fb5bc7-1b30-405c-91b0-d99590270104.png",
                 "path": "/static/images/fixed/profile/d0083ad91af706e1be5de7fa7600e0bd.webp"
@@ -28,7 +28,7 @@
         },
         {
             "title": "Rust",
-            "description": "興味のある言語ですが、マスターはしていません。\n[ls-improved](https://github.com/ShotaroKataoka/ls-Improved)の趣味開発で使用しています。\nWASMでの利用も興味あります。そのうち試してみたい。",
+            "description": "興味のある言語です。\n[ls-improved](https://github.com/ShotaroKataoka/ls-Improved)の趣味開発で使用しました。\nWASMでの利用も興味あります。そのうち試してみたい。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168748889-8bcd4ec8-4894-416f-8b8f-8dbd4b8fedb4.png",
                 "path": "/static/images/fixed/profile/56b3a46eed69dd74b308115bba871858.webp"
@@ -39,7 +39,7 @@
         },
         {
             "title": "Next.js",
-            "description": "このサイトを実装するにあたり勉強しました。\nNext.js×Typescriptでやってます。",
+            "description": "3年程度の経験。個人開発・アルバイトで使用。\nこのサイトを実装するにあたり勉強しました。\n言語はTypescriptをメインで使用。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168748817-f8bff2cc-d444-436c-86b1-fec14ea98bab.png",
                 "path": "/static/images/fixed/profile/ed70c0cbb4c869019bcbae7494d73bf9.webp"
@@ -52,7 +52,7 @@
         },
         {
             "title": "C / C++",
-            "description": "昔使っていましたがもう忘れました。\nC言語は初めて勉強した言語でマイコン開発に使用していました。\nC++は軽く触ったことがある程度です。",
+            "description": "高専時代に3年程度の経験。マイコン開発で使用していました。\nC++は軽く触ったことがある程度です。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168736450-37093830-127a-41fb-ad6e-c0faaec9605e.jpg",
                 "path": "/static/images/fixed/profile/3a9a5a892cf8d20794bf6e4ed34584d3.webp"
@@ -63,7 +63,7 @@
         },
         {
             "title": "Java",
-            "description": "大学の授業で習いました。\n簡単なAndroidアプリを作成しました。",
+            "description": "大学の授業で習い、簡単なAndroidアプリを作成しました。",
             "image_url": {
                 "url": "https://user-images.githubusercontent.com/42331656/168748711-b1434155-d633-4d3f-8313-4928b6a2998c.png",
                 "path": "/static/images/fixed/profile/1bbc7fcaa6084f049f1890c4358e5e02.webp"
@@ -138,8 +138,8 @@
             "date": "2019年7月"
         },
         {
-            "text": "経産省から研究成果が認められ**AIフロンティアパスファインダー**として認定",
-            "date": "2020年2月"
+            "text": "経産省から研究成果が認められ<font color='#ff0000'>**AIフロンティアパスファインダー**</font>として認定",
+            "date": "2020年2月<"
         },
         {
             "text": "**経歴：** 長岡技術科学大学 情報経営システム工学課程修了",
@@ -162,7 +162,7 @@
             "date": "2021年2月"
         },
         {
-            "text": "[株式会社マヨラボ](https://mayo-lab.com/)を起業",
+            "text": "[株式会社マヨラボ](https://mayolab.co.jp)を起業",
             "date": "2021年2月"
         }
     ]
