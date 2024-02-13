@@ -1,6 +1,6 @@
 {
     "site_description": "## このサイトの紹介\n\nこのサイトはRibbonCMSで作成しました。\n画像を含めたすべての情報や記事はGitHub Issuesによって更新されています",
-    "author_description_detail": "25卒の博士課程学生。AI・機械学習の産業応用が専門です。\n工場内動画解析や技術文書のNLPを研究しています。\n未踏事業の修了生で経産省からAIフロンティアパスファインダーとして認定されています！\n趣味：個人ツール開発／ボードゲーム・謎解き／カラオケ／VIM",
+    "author_description_detail": "25卒の博士課程学生。AI・機械学習の産業応用が専門です。\n工場内動画解析や技術文書のNLPを研究しています。\n[未踏修了生](https://scrapbox.io/mitou-meikan/%E7%89%87%E5%B2%A1_%E7%BF%94%E5%A4%AA%E9%83%8E)／経産省からAIフロンティアパスファインダーとして認定されました。\n\n趣味：個人開発／ボードゲーム・謎解き／カラオケ／開発環境カスタマイズ",
     "skills_data": [
         {
             "title": "Python",
@@ -166,15 +166,15 @@
             "date": "2021年2月"
         },
         {
-            "text": "<font color='#E53E3E'>**実績**</font>： [新潟版未踏的人材育成事業ETSUZAN](https://etsuzan.org/)のPMとして選任され活動。(2023.07 - 2024.01)\n２つのプロジェクトを採択し、伴走的支援を遂行した。",
+            "text": "<font color='#E53E3E'>**実績**</font>： [新潟版未踏的人材育成事業ETSUZAN](https://etsuzan.org/) PM (2023.07 - 2024.01)\n![image](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/d1a427bd-3350-4540-ab5b-ec28198883f6)\n地方版の未踏事業を目指して始まった経産省[AKATSUKIプロジェクト](https://mitouteki.jp/) - ETSUZANのプロジェクトマネージャーとして選任され、プロジェクト採択からPMとしてチームの伴走的支援まで携わりました。\nチーム[nexfare](https://etsuzan.org/posts/nexfare)とチーム[Weareable](https://etsuzan.org/posts/Weareable)を採択し、半年間両チームのPMとしてサポートをしました。",
             "date": "2023年7月"
         },
         {
-            "text": "<font color='#38A169'>**インターンシップ**</font>： [国立研究開発法人理化学研究所](https://grp.riken.jp/labs/knowl_acqui_dialogue/) (2023.09~2023.10)\nGRP 知識獲得・対話研究チームで特許分野の大規模視覚言語モデル(LLM)学習に取り組みました。\n研究内容の提案・データセット作成・学習準備までを担当しました。",
+            "text": "<font color='#38A169'>**インターンシップ**</font>： [国立研究開発法人理化学研究所](https://grp.riken.jp/labs/knowl_acqui_dialogue/) (2023.09 - 2023.10)\nGRP 知識獲得・対話研究チームで特許分野の大規模視覚言語モデル開発に取り組み、研究計画・データセット作成・モデル学習準備までを担当しました。",
             "date": "2023年9月"
         },
         {
-            "text": "<font color='#E53E3E'>**実績**</font>：開発プロダクトのクラウドファンディングを実施＆目標達成\n日常の\"動き\"に音楽を融合するWeareable楽器デバイス [Synthevery : A New Instrument,ALL U NEED is Motion](https://www.indiegogo.com/projects/synthevery-a-new-instrument-all-u-need-is-motion/x/36534099#/)\nETSUZANでPMを担当したプロジェクトのクラウドファンディングを米国Indiegogoで実施し、開始3日間で目標金額を達成しました。\n![クラウドファンディングページのスクリーンショット](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/2985d46b-856c-4105-bb31-94ef77cabbdc)",
+            "text": "<font color='#E53E3E'>**実績**</font>：クラウドファンディングを実施＆3日間で**目標金額達成**\n日常の\"動き\"に音楽を融合する[ウェアラブル楽器デバイス Synthevery](https://www.indiegogo.com/projects/synthevery-a-new-instrument-all-u-need-is-motion/x/36534099#/)\nETSUZANでPMを担当したプロジェクトのクラウドファンディングをIndiegogoで実施し、開始3日間で目標金額を達成しました。\n![クラウドファンディングページのスクリーンショット](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/2985d46b-856c-4105-bb31-94ef77cabbdc)",
             "date": "2024年1月"
         }
     ]
