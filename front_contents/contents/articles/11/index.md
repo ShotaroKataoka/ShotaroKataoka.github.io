@@ -6,7 +6,7 @@ slug: '11'
 tag_ids:
 - 6562561739
 title: 株式会社マヨラボを起業・CEOに就任
-updated_at: ''
+updated_at: 2024-02-15 07:17:16+00:00
 
 ---
 
