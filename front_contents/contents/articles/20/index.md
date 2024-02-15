@@ -5,12 +5,12 @@ slug: '20'
 tag_ids:
 - 6562561739
 title: ビジネスアイデアコンテストでグランプリを受賞しました
-updated_at: ''
+updated_at: 2024-02-15 10:18:22+00:00
 
 ---
 
 [「えちご想発xTech」（学生ICTビジネスアイデアコンテスト2018 in 長岡）](http://www.ict-echigo.jp/news/public/detail/ID/96/td/)に出場し、グランプリを受賞しました。
 
-[受賞の様子](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/ab54d2ad-f9e5-4470-8787-1d9c7bb9ab07)
+<img src='/static/images/articles/20/28f41b34d47eafda1b0b23764761b471.webp' origin_url='https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/ab54d2ad-f9e5-4470-8787-1d9c7bb9ab07' alt='受賞の様子' />
 
 
