@@ -8,7 +8,7 @@ tag_ids:
 - 4261073428
 - 6562561739
 title: 第１回長岡技術フォーラムで登壇
-updated_at: 2024-02-15 05:08:18+00:00
+updated_at: 2024-02-15 05:15:48+00:00
 
 ---
 
@@ -18,7 +18,7 @@ updated_at: 2024-02-15 05:08:18+00:00
 このフォーラムは長岡市とNTT東日本様の「イノベーション都市 長岡」実現に向けた連携協定の締結記念として開催されたイベントです。
 フォーラムでは長岡市のITベンチャー3社とNTT東日本様から3名が講演を行いました。
 
-![image](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/3e5f607d-73cb-4102-a57c-164af2c0127f)
+<img src='/static/images/articles/10/7b472349fea6875f813d2750ef337f76.webp' origin_url='https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/3e5f607d-73cb-4102-a57c-164af2c0127f' alt='image' />
 
 
 ## 感想
@@ -26,7 +26,7 @@ updated_at: 2024-02-15 05:08:18+00:00
 ネットワークやクラウド技術のかなりディープな内容から今後の日本のIT教育についてまでかなり幅広いトピックでディスカッションでき、とても楽しい時間を過ごすことができました。
 登先生めちゃくちゃ面白い人だった……。
 
-![image](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/9b01e34a-b08a-4292-9b0e-bb0b5fa8d908)
+<img src='/static/images/articles/10/0413c27e26bcc37ebbb0dfc8420d82db.webp' origin_url='https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/9b01e34a-b08a-4292-9b0e-bb0b5fa8d908' alt='image' />
 
 控室の写真
 （ちゃんと控室があるイベント初めてだったので緊張しました。。。）
