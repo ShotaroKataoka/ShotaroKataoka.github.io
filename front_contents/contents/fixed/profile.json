@@ -1,6 +1,6 @@
 {
     "site_description": "## このサイトの紹介\n\nこのサイトはRibbonCMSで作成しました。\n画像を含めたすべての情報や記事はGitHub Issuesによって更新されています",
-    "author_description_detail": "25卒の博士課程学生。AI・機械学習の産業応用が専門です。\n工場内動画解析や技術文書のNLPを研究しています。\n[未踏修了生](https://scrapbox.io/mitou-meikan/%E7%89%87%E5%B2%A1_%E7%BF%94%E5%A4%AA%E9%83%8E)／経産省からAIフロンティアパスファインダーとして認定されました。\n\n趣味：個人開発／ボードゲーム・謎解き／カラオケ／開発環境カスタマイズ",
+    "author_description_detail": "25卒の博士課程学生。AI・機械学習の産業応用が専門です。\n工場内動画解析や特許出願書類のNLPについて研究しています。\n[未踏修了生](https://scrapbox.io/mitou-meikan/%E7%89%87%E5%B2%A1_%E7%BF%94%E5%A4%AA%E9%83%8E)／経産省からAIフロンティアパスファインダーとして認定されました。\n\n趣味：個人開発／ボードゲーム・謎解き／カラオケ／開発環境カスタマイズ",
     "skills_data": [
         {
             "title": "Python",
@@ -138,15 +138,19 @@
             "date": "2019年3月"
         },
         {
-            "text": "<font color='#38A169'>**インターンシップ**</font>：[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/) *(2019.07 - 2020.03)*\n9ヶ月間の長期にわたりリサーチアシスタントとしてオンサイトで勤務した。\n[コールセンターの業務効率改善AI](https://www.sonycsl.co.jp/press/prs20200702/)の研究開発チームでディープラーニング領域（NLP）の先行研究を担当し、BERTやGPT2等の応用可能性について検証を行った。",
+            "text": "<font color='#38A169'>**インターンシップ**</font>：[株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/) *(2019.07 - 2020.03)*\n**9ヶ月間**の長期にわたりリサーチアシスタントとしてオンサイトで勤務した。\n[コールセンターの業務効率改善AI](https://www.sonycsl.co.jp/press/prs20200702/)の研究開発チームでディープラーニング領域（NLP）の先行研究を担当し、BERTやGPT2等の応用可能性について検証を行った。",
             "date": "2019年7月"
+        },
+        {
+            "text": "<font color='#E53E3E'>**活動**</font>：[長岡市長によるマカオ・深圳視察](https://www.city.nagaoka.niigata.jp/shityo/kaiken_i/file/20190823-3-1.pdf)に同行 (08.11 - 08.15)\n長岡市長とともにマカオで開かれた人工知能に関する学会[IJCAI-19](https://www.ijcai19.org/)及び、中国のシリコンバレーとも呼ばれる深圳市を視察した。\n深圳市ではITを活用したスマートな製造を進めている工場や、次々とベンチャー企業を生み出しているイノベーションセンターなどを視察することができた。\n![視察の様子](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/74ce3ef7-8194-4350-97a8-2017ed6ec03c)",
+            "date": "2019年8月"
         },
         {
             "text": "**経歴**： 長岡技術科学大学 [情報・経営システム工学課程](https://imse.nagaokaut.ac.jp/)修了",
             "date": "2020年3月"
         },
         {
-            "text": "**経歴**： 長岡技術科学大学 5年一貫制博士課程 [技術科学イノベーション専攻](http://sti.nagaokaut.ac.jp/)進学\"\n[卓越大学院プログラム](https://www.mext.go.jp/a_menu/koutou/kaikaku/takuetudaigakuin/index.htm)採択学生として、国からの支援のもとで研究を実施。",
+            "text": "**経歴**： 長岡技術科学大学 5年一貫制博士課程 [技術科学イノベーション専攻](http://sti.nagaokaut.ac.jp/)進学\n[卓越大学院プログラム](https://www.mext.go.jp/a_menu/koutou/kaikaku/takuetudaigakuin/index.htm)採択学生として、国からの支援のもとで研究を実施。",
             "date": "2020年4月"
         },
         {
@@ -158,7 +162,7 @@
             "date": "2020年11月"
         },
         {
-            "text": "<font color='#38A169'>**インターンシップ**</font>： [株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/) *(2021.02 - 2022.07)*\n1年6ヵ月間の長期にわたりリサーチアシスタントとしてリモートで勤務した。\n[コールセンターの業務効率改善AI](https://www.sonycsl.co.jp/press/prs20200702/)の研究開発チームでディープラーニング領域（NLP）の先行研究を担当し、DPR等の応用可能性について検証を行った。",
+            "text": "<font color='#38A169'>**インターンシップ**</font>： [株式会社ソニーコンピュータサイエンス研究所](https://www.sonycsl.co.jp/) *(2021.02 - 2022.07)*\n**1年6ヵ月間**の長期にわたりリサーチアシスタントとしてリモートで勤務した。\n[コールセンターの業務効率改善AI](https://www.sonycsl.co.jp/press/prs20200702/)の研究開発チームでディープラーニング領域（NLP）の先行研究を担当し、DPR等の応用可能性について検証を行った。",
             "date": "2021年2月"
         },
         {
