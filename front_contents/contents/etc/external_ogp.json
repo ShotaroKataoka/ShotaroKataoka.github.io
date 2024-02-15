@@ -14,5 +14,13 @@
         "description": "以下のように初期レンダリングの際に一瞬CSSが当たらない問題をFOUCというそうです\n\n\nCSS @importルールを使用している一部のページでは、MS Internet ExplorerのWindows版で、スタイル化されていない...",
         "image_url": "/static/images/external_ogp//f484656886289537ccd4c7f5d46af69c.webp",
         "site_name": "Qiita"
+    },
+    "https://mayolab.co.jp/": {
+        "url_domain": "mayolab.co.jp",
+        "url_domain_link": "https://mayolab.co.jp",
+        "title": "株式会社マヨラボ",
+        "description": "株式会社マヨラボは\"人類の進歩に資する人とAIの共働可能性\"を探る研究開発企業です。動画像・テキスト・WEB・特許情報など幅広いデータを分析するAI技術をご提供いたします。",
+        "image_url": "/static/images/external_ogp//15490f2efc9935064e531a3e28a1b19a.webp",
+        "site_name": "株式会社マヨラボ"
     }
 }
