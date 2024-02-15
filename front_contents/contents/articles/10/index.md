@@ -7,7 +7,7 @@ slug: '10'
 tag_ids:
 - 4261073428
 title: 第１回長岡技術フォーラムで登壇
-updated_at: 2024-02-15 04:00:04+00:00
+updated_at: 2024-02-15 04:06:05+00:00
 
 ---
 
@@ -17,12 +17,15 @@ updated_at: 2024-02-15 04:00:04+00:00
 このフォーラムは長岡市とNTT東日本様の「イノベーション都市 長岡」実現に向けた連携協定の締結記念として開催されたイベントです。
 フォーラムでは長岡市のITベンチャー3社とNTT東日本様から3名が講演を行いました。
 
-<img src='/static/images/articles/10/d6e0cf63b28c545891d9cf70b24b5558.webp' origin_url='https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/c42fdaf7-c709-4cf1-8888-af5a3537a79b' alt='image' />
+![image](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/c42fdaf7-c709-4cf1-8888-af5a3537a79b)
 
 ## 感想
-↓ちゃんと控室があるイベント初めてだったので緊張しました。。。
-<img src='/static/images/articles/10/3655a216d163a33e2748bfecd21329db.webp' origin_url='https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/08b61718-f34d-496d-bc94-b57f7fb1886c' alt='image' />
+お昼ごはんの時間にNTT 東日本 特殊局員としていらっしゃっていた登大遊先生とお話することができました！
+ネットワークやクラウド技術のかなりディープな内容から今後の日本のIT教育についてまでかなり幅広いトピックでディスカッションでき、とても楽しい時間を過ごすことができました。
+登先生めちゃくちゃ面白い人だった……。
 
-控室でのお昼ごはんの時間にNTT 東日本 特殊局員としていらっしゃっていた登大遊先生とお話することができました！
-ネットワークやクラウド技術のかなりディープな内容から日本のIT教育のあるべき姿についてまでかなり幅広いトピックでディスカッションでき、とても楽しい時間を過ごすことができました。
+![image](https://github.com/ShotaroKataoka/ShotaroKataoka.github.io/assets/42331656/54a79b38-0090-4973-b516-1715ade6840c)
+控室の写真
+（ちゃんと控室があるイベント初めてだったので緊張しました。。。）
+
 
