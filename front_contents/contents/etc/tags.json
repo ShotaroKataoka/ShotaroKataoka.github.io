@@ -1,12 +1,17 @@
 {
-    "6562561739": {
-        "name": "実績",
-        "color": "5319e7",
-        "description": ""
-    },
     "4261073428": {
         "name": "日記",
         "color": "E78123",
+        "description": ""
+    },
+    "4263720034": {
+        "name": "star",
+        "color": "fbca04",
+        "description": ""
+    },
+    "6562561739": {
+        "name": "実績",
+        "color": "5319e7",
         "description": ""
     }
 }
