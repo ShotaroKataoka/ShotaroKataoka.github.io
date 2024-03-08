@@ -1,5 +1,5 @@
 ---
-description: '      ...'
+description: 'えちご想発xTech」（学生ICTビジネスアイデアコンテスト2018 in 長岡に出場し、グランプリを受賞しました。'
 posted_at: 2018-12-02 09:00:00+00:00
 slug: '20'
 tag_ids:
