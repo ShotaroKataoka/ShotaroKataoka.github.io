@@ -1,7 +1,7 @@
 ---
-description: ' チームWeareableが米Indiegogoで挑戦しているクラウドファンディングが開始わずか3日間で目標金額100%を達成！！ 現在は次の目標をロックオン！してます！
-  新潟から世界への挑戦！    Syntheveryは日常の"動き"に音楽を融合する新しいウェアラブル楽器。 めちゃめちゃ面白いデバイスです！  <div style="display:
-  flex; justify-content...'
+description: '  現在は次の目標をロックオン！してます！ 新潟から世界への挑戦！  Syntheveryは日常の"動き"に音楽を融合する新しいウェアラブル楽器。
+  めちゃめちゃ面白いデバイスです！  <div style="display: flex; justify-content: center; width: 100%;"><div
+  style="position: relative; width: 100...'
 posted_at: 2024-01-16 09:00:00+00:00
 slug: '19'
 tag_ids:
@@ -9,15 +9,13 @@ tag_ids:
 - 4263720034
 - 6562561739
 title: クラウドファンディングを開始！！したよ！
-updated_at: ''
+updated_at: 2024-03-08 00:52:32+00:00
 
 ---
 
-チームWeareableが米Indiegogoで挑戦しているクラウドファンディングが開始わずか3日間で目標金額100%を達成！！
+[チームWeareableが米Indiegogoで挑戦しているクラウドファンディング](https://www.indiegogo.com/projects/synthevery-a-new-instrument-all-u-need-is-motion/x/36534099#/)が開始わずか3日間で目標金額100%を達成！！
 現在は次の目標をロックオン！してます！
 新潟から世界への挑戦！
-
-https://www.indiegogo.com/projects/synthevery-a-new-instrument-all-u-need-is-motion/x/36534099#/
 
 Syntheveryは日常の"動き"に音楽を融合する新しいウェアラブル楽器。
 めちゃめちゃ面白いデバイスです！
